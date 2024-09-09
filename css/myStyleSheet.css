@@ -68,5 +68,5 @@ li{
 
 #completed li{
     text-decoration: line-through;
-    color:red;
+    color:orange;
 }
