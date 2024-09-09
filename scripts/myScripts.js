@@ -12,7 +12,7 @@ function addItemFunc(){
         newItem.value = ""
     }
     else {
-        alert("Please provide a task to add.")
+        alert("Please provide an item to add the to-do list.")
     }
 }
 
